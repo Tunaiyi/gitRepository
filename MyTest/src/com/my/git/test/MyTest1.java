@@ -7,6 +7,7 @@ public class MyTest1 {
 		System.out.println("commit 2 两次");
 		System.out.println("commit 3 三次");
 		System.out.println("other local commit 1");
+		System.out.println("other local commit 2");
 	}
 	
 }
